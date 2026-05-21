@@ -1,0 +1,6 @@
+{
+  "name": "Aura TM",
+  "description": "A premium task management experience with vibrant themes, dark mode, and fluid interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
